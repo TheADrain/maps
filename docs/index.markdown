@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Maps
-permalink: /maps/
+order: 1
 ---
 ## Quake Maps
 
