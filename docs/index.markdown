@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Levels/Maps
+title: Maps
 permalink: /maps/
 ---
 ## Quake Maps
