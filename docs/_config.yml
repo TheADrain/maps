@@ -2,7 +2,7 @@ title: Adrian Gordon
 author:
   name: Adrian Gordon
   email: theadraindev@gmail.com
-baseurl: /portfolio/
+baseurl: /maps/
 url: https://theadrain.github.io
 permalink: /:title
 description: 
@@ -49,10 +49,7 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-header_pages:
- - index.markdown
- - portfolio.markdown
- - contact.markdown
+# header_pages:
  
 
 # Build settings
